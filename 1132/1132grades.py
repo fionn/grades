@@ -27,7 +27,7 @@ for i in range(2,len(grades)):
 		
         if grades[i][j] == "A": #
             a += 1              # Unless they were excused.
-            grades[i][j] = 0	#
+            grades[i][j] = 0    #
 
 
     # This makes a list of all the tutorial scores.
